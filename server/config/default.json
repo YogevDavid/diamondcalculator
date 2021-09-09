@@ -1,0 +1,4 @@
+{
+  "mongoURI": "MONGO_CONNECTION_STRING",
+  "jwtSecret": "YOUR_SECRET"
+}
